@@ -1,0 +1,2 @@
+# Email to JSON converter
+The goal of this converter is to take in an email, whether it be an actual email file or an email sent in to a server, convert the email to JSON, and send up the JSON as a POST request.
